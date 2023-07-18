@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Here](https://github.com/tomtrin/fe_newsletter_signup_component)
-- Live Site URL: [Here](https://tomtrin.github.io/fe_newsletter_signup_component/)
+- Solution URL: [Here](https://github.com/tomtrin/fe_testimonials_grid_component)
+- Live Site URL: [Here](https://tomtrin.github.io/fe_testimonials_grid_component/)
 
 ## My process
 

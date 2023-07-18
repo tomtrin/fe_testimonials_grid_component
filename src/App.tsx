@@ -39,7 +39,9 @@ function App() {
   ]
   return (
     <>
-       <FeaturedTestimonials testimonials={testimonials}/>
+      <main>
+        <FeaturedTestimonials testimonials={testimonials}/>
+      </main>
     </>
   )
 }
