@@ -5,6 +5,9 @@ module.exports = {
         "./src/**/*.{js,ts,jsx,tsx}",
     ],
     theme: {
+        backgroundImage: {
+            quote: "url('assets/images/bg-pattern-quotation.svg')"
+        },
         extend: {
             fontFamily: {
               'barlow': ['Barlow Semi Condensed', 'Helvetica']

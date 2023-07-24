@@ -1,5 +1,5 @@
 interface Testimonial {
-  avatarPath: string
+  avatarFileName: string
   name: string
   shortDescription: string
   fullDescription: string
